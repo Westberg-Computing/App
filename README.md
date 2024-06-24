@@ -1,2 +1,2 @@
 # WestbergComputing
-Website of Westberg Computing and there articles.
+A group of computer nerds helping people there issues.
